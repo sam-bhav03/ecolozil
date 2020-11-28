@@ -231,9 +231,15 @@ html, body {
     color: #333;
 }
 
+.transaction {
+    display: flex;
+    
+}
+
+}
 .shop-items {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     justify-content: space-around;
 }
 
